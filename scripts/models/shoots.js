@@ -92,7 +92,26 @@ class Shoots {
                     <img src="images/alina004.jpg" alt="alina004">
                 </div>
             </div>    `
-            }
+            },
+
+            {
+                id: generateID(),
+                title: 'Night walk',
+                content: `<div class="slider-container">
+                <div class="slider-one">
+                    <img src="images/nightwalk001.jpg" alt="nightwalk001">
+                </div>
+                <div class="slider-two">
+                    <img src="images/nightwalk002.jpg" alt="nightwalk002">
+                </div>
+                <div class="slider-three">
+                    <img src="images/nightwalk003.jpg" alt="nightwalk003">
+                   </div>
+                <div class="slider-four">
+                    <img src="images/nightwalk004.jpg" alt="nightwalk004">
+                </div>
+            </div>    `
+            },
 
         ];
 
